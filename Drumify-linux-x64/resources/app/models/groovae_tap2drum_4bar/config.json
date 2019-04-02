@@ -1,0 +1,11 @@
+{
+  "type": "MusicVAE",
+  "dataConverter": {
+    "type": "GrooveConverter",
+    "args": {
+      "numSteps": 64,
+      "tapify": true,
+      "splitInstruments": false
+    }
+  }
+}

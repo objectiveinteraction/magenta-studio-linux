@@ -1,0 +1,10 @@
+Drumify-linux-x64/Drumify filter=lfs diff=lfs merge=lfs -text
+Interpolate-linux-x64/Interpolate filter=lfs diff=lfs merge=lfs -text
+Groove-linux-x64/Groove filter=lfs diff=lfs merge=lfs -text
+Generate-linux-x64/Generate filter=lfs diff=lfs merge=lfs -text
+Continue-linux-x64/Continue filter=lfs diff=lfs merge=lfs -text
+Generate-linux-x64/resources/app/models/drums_4bar_med_lokl/group1-shard1of1 filter=lfs diff=lfs merge=lfs -text
+Generate-linux-x64/resources/app/models/mel_4bar_med_lokl/group1-shard1of1 filter=lfs diff=lfs merge=lfs -text
+Interpolate-linux-x64/resources/app/models/drums_4bar_med/group1-shard1of1 filter=lfs diff=lfs merge=lfs -text
+Interpolate-linux-x64/resources/app/models/mel_4bar_med/group1-shard1of1 filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
